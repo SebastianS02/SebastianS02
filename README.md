@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sebastian, a Junior majoring in Computer Science at the CUNY College of Staten Island.
+- 👋 Hi, I’m Sebastian, a Senior majoring in Computer Science at the CUNY College of Staten Island.
 - 👀 I’m interested in coding of all sorts, but have a particular interest in back end development.
 - 💞️ I’m looking to collaborate on any project. The more experience, the better!
 - 📫 How to reach me: Email - stecsebastian2002@gmail.com
